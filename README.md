@@ -1,4 +1,4 @@
-# FlyRank Capstone — Image Relevance Suggestion Engine
+# FlyRank Capstone — Image Relevance & Auto Tagging
 
 An AI-powered backend that suggests relevant images from a licensed corpus
 for blog posts, using vision-model tagging, semantic embedding search, and
